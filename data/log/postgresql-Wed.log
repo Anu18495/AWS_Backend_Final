@@ -1,0 +1,24 @@
+2025-02-05 12:08:43.445 UTC [691] LOG:  starting PostgreSQL 13.18 on x86_64-redhat-linux-gnu, compiled by gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-2), 64-bit
+2025-02-05 12:08:43.449 UTC [691] LOG:  listening on IPv6 address "::1", port 5432
+2025-02-05 12:08:43.449 UTC [691] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-02-05 12:08:43.452 UTC [691] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+2025-02-05 12:08:43.456 UTC [691] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2025-02-05 12:08:43.472 UTC [703] LOG:  database system was shut down at 2025-02-04 19:50:29 UTC
+2025-02-05 12:08:43.505 UTC [691] LOG:  database system is ready to accept connections
+2025-02-05 12:17:25.617 UTC [691] LOG:  received fast shutdown request
+2025-02-05 12:17:25.621 UTC [691] LOG:  aborting any active transactions
+2025-02-05 12:17:25.644 UTC [691] LOG:  background worker "logical replication launcher" (PID 712) exited with exit code 1
+2025-02-05 12:17:25.646 UTC [707] LOG:  shutting down
+2025-02-05 12:17:25.669 UTC [691] LOG:  database system is shut down
+2025-02-12 12:58:45.748 UTC [736] LOG:  starting PostgreSQL 13.18 on x86_64-redhat-linux-gnu, compiled by gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-2), 64-bit
+2025-02-12 12:58:45.750 UTC [736] LOG:  listening on IPv6 address "::1", port 5432
+2025-02-12 12:58:45.750 UTC [736] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-02-12 12:58:45.754 UTC [736] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+2025-02-12 12:58:45.757 UTC [736] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2025-02-12 12:58:45.773 UTC [759] LOG:  database system was shut down at 2025-02-11 06:45:42 UTC
+2025-02-12 12:58:45.804 UTC [736] LOG:  database system is ready to accept connections
+2025-02-12 17:15:20.294 UTC [736] LOG:  received fast shutdown request
+2025-02-12 17:15:20.316 UTC [736] LOG:  aborting any active transactions
+2025-02-12 17:15:20.343 UTC [736] LOG:  background worker "logical replication launcher" (PID 768) exited with exit code 1
+2025-02-12 17:15:20.343 UTC [763] LOG:  shutting down
+2025-02-12 17:15:20.364 UTC [736] LOG:  database system is shut down

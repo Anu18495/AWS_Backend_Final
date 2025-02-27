@@ -1,0 +1,61 @@
+2025-02-07 13:43:06.934 UTC [687] LOG:  received fast shutdown request
+2025-02-07 13:43:06.941 UTC [687] LOG:  aborting any active transactions
+2025-02-07 13:43:07.021 UTC [687] LOG:  background worker "logical replication launcher" (PID 710) exited with exit code 1
+2025-02-07 13:43:07.025 UTC [705] LOG:  shutting down
+2025-02-07 13:43:07.046 UTC [687] LOG:  database system is shut down
+2025-02-07 18:12:59.766 UTC [5880] LOG:  starting PostgreSQL 13.18 on x86_64-redhat-linux-gnu, compiled by gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-2), 64-bit
+2025-02-07 18:12:59.767 UTC [5880] LOG:  listening on IPv6 address "::1", port 5432
+2025-02-07 18:12:59.767 UTC [5880] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-02-07 18:12:59.770 UTC [5880] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+2025-02-07 18:12:59.775 UTC [5880] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2025-02-07 18:15:23.248 UTC [5936] LOG:  starting PostgreSQL 13.18 on x86_64-redhat-linux-gnu, compiled by gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-2), 64-bit
+2025-02-07 18:15:23.248 UTC [5936] LOG:  listening on IPv6 address "::1", port 5432
+2025-02-07 18:15:23.248 UTC [5936] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-02-07 18:15:23.251 UTC [5936] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+2025-02-07 18:17:32.824 UTC [5974] LOG:  starting PostgreSQL 13.18 on x86_64-redhat-linux-gnu, compiled by gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-2), 64-bit
+2025-02-07 18:17:32.825 UTC [5974] LOG:  listening on IPv6 address "::1", port 5432
+2025-02-07 18:17:32.825 UTC [5974] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-02-07 18:17:32.828 UTC [5974] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+2025-02-07 18:18:10.465 UTC [6000] LOG:  starting PostgreSQL 13.18 on x86_64-redhat-linux-gnu, compiled by gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-2), 64-bit
+2025-02-07 18:18:10.465 UTC [6000] LOG:  listening on IPv6 address "::1", port 5432
+2025-02-07 18:18:10.465 UTC [6000] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-02-07 18:18:10.467 UTC [6000] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+2025-02-07 18:49:08.038 UTC [6660] LOG:  starting PostgreSQL 13.18 on x86_64-redhat-linux-gnu, compiled by gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-2), 64-bit
+2025-02-07 18:49:08.039 UTC [6660] LOG:  listening on IPv6 address "::1", port 5432
+2025-02-07 18:49:08.039 UTC [6660] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-02-07 18:49:08.041 UTC [6660] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+2025-02-07 18:49:08.045 UTC [6660] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2025-02-07 18:49:08.049 UTC [6662] LOG:  database system was shut down at 2025-02-07 13:43:07 UTC
+2025-02-07 18:49:08.059 UTC [6660] LOG:  database system is ready to accept connections
+2025-02-07 19:02:55.814 UTC [6660] LOG:  received SIGHUP, reloading configuration files
+2025-02-07 19:03:06.889 UTC [6660] LOG:  received fast shutdown request
+2025-02-07 19:03:06.891 UTC [6660] LOG:  aborting any active transactions
+2025-02-07 19:03:06.895 UTC [6660] LOG:  background worker "logical replication launcher" (PID 6668) exited with exit code 1
+2025-02-07 19:03:06.899 UTC [6663] LOG:  shutting down
+2025-02-07 19:03:06.915 UTC [6660] LOG:  database system is shut down
+2025-02-07 19:03:06.955 UTC [7029] LOG:  starting PostgreSQL 13.18 on x86_64-redhat-linux-gnu, compiled by gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-2), 64-bit
+2025-02-07 19:03:06.956 UTC [7029] LOG:  listening on IPv6 address "::1", port 5432
+2025-02-07 19:03:06.956 UTC [7029] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-02-07 19:03:06.958 UTC [7029] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+2025-02-07 19:03:06.963 UTC [7029] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2025-02-07 19:03:06.967 UTC [7031] LOG:  database system was shut down at 2025-02-07 19:03:06 UTC
+2025-02-07 19:03:06.972 UTC [7029] LOG:  database system is ready to accept connections
+2025-02-14 05:25:29.001 UTC [1842] LOG:  starting PostgreSQL 13.18 on x86_64-redhat-linux-gnu, compiled by gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-2), 64-bit
+2025-02-14 05:25:29.001 UTC [1842] LOG:  listening on IPv4 address "0.0.0.0", port 5432
+2025-02-14 05:25:29.001 UTC [1842] LOG:  listening on IPv6 address "::", port 5432
+2025-02-14 05:25:29.003 UTC [1842] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+2025-02-14 05:25:29.007 UTC [1842] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2025-02-14 05:25:29.013 UTC [1844] LOG:  database system was shut down at 2025-02-13 20:17:38 UTC
+2025-02-14 05:25:29.023 UTC [1842] LOG:  database system is ready to accept connections
+2025-02-14 05:52:20.643 UTC [1842] LOG:  received fast shutdown request
+2025-02-14 05:52:20.656 UTC [1842] LOG:  aborting any active transactions
+2025-02-14 05:52:20.659 UTC [1842] LOG:  background worker "logical replication launcher" (PID 1850) exited with exit code 1
+2025-02-14 05:52:20.678 UTC [1845] LOG:  shutting down
+2025-02-14 05:52:20.695 UTC [1842] LOG:  database system is shut down
+2025-02-14 18:35:47.674 UTC [734] LOG:  starting PostgreSQL 13.18 on x86_64-redhat-linux-gnu, compiled by gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-2), 64-bit
+2025-02-14 18:35:47.674 UTC [734] LOG:  listening on IPv4 address "0.0.0.0", port 5432
+2025-02-14 18:35:47.674 UTC [734] LOG:  listening on IPv6 address "::", port 5432
+2025-02-14 18:35:47.680 UTC [734] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+2025-02-14 18:35:47.685 UTC [734] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2025-02-14 18:35:47.698 UTC [750] LOG:  database system was shut down at 2025-02-14 05:52:20 UTC
+2025-02-14 18:35:47.731 UTC [734] LOG:  database system is ready to accept connections

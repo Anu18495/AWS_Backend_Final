@@ -1,0 +1,72 @@
+2025-02-17 08:13:11.776 UTC [739] LOG:  starting PostgreSQL 13.18 on x86_64-redhat-linux-gnu, compiled by gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-2), 64-bit
+2025-02-17 08:13:11.776 UTC [739] LOG:  listening on IPv4 address "0.0.0.0", port 5432
+2025-02-17 08:13:11.776 UTC [739] LOG:  listening on IPv6 address "::", port 5432
+2025-02-17 08:13:11.778 UTC [739] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+2025-02-17 08:13:11.780 UTC [739] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2025-02-17 08:13:11.792 UTC [755] LOG:  database system was shut down at 2025-02-16 06:22:23 UTC
+2025-02-17 08:13:11.824 UTC [739] LOG:  database system is ready to accept connections
+2025-02-17 09:54:06.210 UTC [3522] FATAL:  unsupported frontend protocol 16.0: server supports 2.0 to 3.0
+2025-02-17 12:19:43.624 UTC [5896] LOG:  invalid length of startup packet
+2025-02-17 15:11:54.062 UTC [24415] LOG:  invalid length of startup packet
+2025-02-17 15:25:40.887 UTC [768] WARNING:  worker took too long to start; canceled
+2025-02-17 15:31:22.869 UTC [24425] WARNING:  autovacuum worker started without a worker entry
+2025-02-17 15:40:08.243 UTC [768] WARNING:  worker took too long to start; canceled
+2025-02-17 15:43:47.300 UTC [24433] WARNING:  autovacuum worker started without a worker entry
+2025-02-17 17:00:51.679 UTC [768] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2025-02-17 17:01:41.184 UTC [24452] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2025-02-17 17:01:41.184 UTC [24438] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2025-02-17 17:09:23.497 UTC [768] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2025-02-17 17:13:56.465 UTC [768] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2025-02-17 17:19:02.618 UTC [24656] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2025-02-17 17:19:44.540 UTC [24664] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2025-02-17 17:21:57.438 UTC [768] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2025-02-17 17:27:29.711 UTC [768] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2025-02-17 17:29:33.480 UTC [24746] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2025-02-17 17:34:16.678 UTC [768] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2025-02-17 17:37:52.534 UTC [768] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2025-02-17 17:40:08.896 UTC [768] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2025-02-17 17:44:58.697 UTC [768] WARNING:  worker took too long to start; canceled
+2025-02-17 17:45:00.642 UTC [24837] WARNING:  autovacuum worker started without a worker entry
+2025-02-17 17:46:17.756 UTC [768] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2025-02-17 17:46:56.931 UTC [24840] LOG:  invalid length of startup packet
+2025-02-17 17:48:51.424 UTC [24835] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2025-02-17 17:55:05.808 UTC [768] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2025-02-17 17:55:42.030 UTC [24852] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2025-02-17 17:55:42.030 UTC [768] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2025-02-17 17:59:54.196 UTC [768] WARNING:  worker took too long to start; canceled
+2025-02-17 18:01:00.328 UTC [24861] WARNING:  autovacuum worker started without a worker entry
+2025-02-17 18:01:34.145 UTC [24857] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2025-02-17 18:12:36.838 UTC [24869] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2025-02-17 18:14:24.206 UTC [768] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2025-02-17 18:14:54.731 UTC [24878] LOG:  invalid length of startup packet
+2025-02-17 18:26:04.538 UTC [768] WARNING:  worker took too long to start; canceled
+2025-02-24 05:37:26.553 UTC [768] LOG:  starting PostgreSQL 13.20 on x86_64-redhat-linux-gnu, compiled by gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-5), 64-bit
+2025-02-24 05:37:26.554 UTC [768] LOG:  listening on IPv4 address "0.0.0.0", port 5432
+2025-02-24 05:37:26.554 UTC [768] LOG:  listening on IPv6 address "::", port 5432
+2025-02-24 05:37:26.558 UTC [768] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+2025-02-24 05:37:26.563 UTC [768] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2025-02-24 05:37:26.578 UTC [812] LOG:  database system was shut down at 2025-02-23 14:48:20 UTC
+2025-02-24 05:37:26.618 UTC [768] LOG:  database system is ready to accept connections
+2025-02-24 06:03:58.622 UTC [768] LOG:  received fast shutdown request
+2025-02-24 06:03:58.624 UTC [768] LOG:  aborting any active transactions
+2025-02-24 06:03:58.628 UTC [768] LOG:  background worker "logical replication launcher" (PID 818) exited with exit code 1
+2025-02-24 06:03:58.631 UTC [813] LOG:  shutting down
+2025-02-24 06:03:58.648 UTC [768] LOG:  database system is shut down
+2025-02-24 12:27:30.993 UTC [759] LOG:  starting PostgreSQL 13.20 on x86_64-redhat-linux-gnu, compiled by gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-5), 64-bit
+2025-02-24 12:27:30.994 UTC [759] LOG:  listening on IPv4 address "0.0.0.0", port 5432
+2025-02-24 12:27:30.994 UTC [759] LOG:  listening on IPv6 address "::", port 5432
+2025-02-24 12:27:31.002 UTC [759] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+2025-02-24 12:27:31.007 UTC [759] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2025-02-24 12:27:31.029 UTC [808] LOG:  database system was shut down at 2025-02-24 06:03:58 UTC
+2025-02-24 12:27:31.061 UTC [759] LOG:  database system is ready to accept connections
+2025-02-24 19:04:14.895 UTC [752] LOG:  starting PostgreSQL 13.20 on x86_64-redhat-linux-gnu, compiled by gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-5), 64-bit
+2025-02-24 19:04:14.898 UTC [752] LOG:  listening on IPv4 address "0.0.0.0", port 5432
+2025-02-24 19:04:14.898 UTC [752] LOG:  listening on IPv6 address "::", port 5432
+2025-02-24 19:04:14.901 UTC [752] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+2025-02-24 19:04:14.913 UTC [752] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2025-02-24 19:04:14.928 UTC [797] LOG:  database system was interrupted; last known up at 2025-02-24 12:32:31 UTC
+2025-02-24 19:04:15.212 UTC [797] LOG:  database system was not properly shut down; automatic recovery in progress
+2025-02-24 19:04:15.217 UTC [797] LOG:  redo starts at 0/15F6E28
+2025-02-24 19:04:15.217 UTC [797] LOG:  invalid record length at 0/15F6F10: wanted 24, got 0
+2025-02-24 19:04:15.217 UTC [797] LOG:  redo done at 0/15F6ED8
+2025-02-24 19:04:15.246 UTC [752] LOG:  database system is ready to accept connections

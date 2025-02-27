@@ -1,0 +1,21 @@
+2025-02-16 06:22:23.227 UTC [734] LOG:  received fast shutdown request
+2025-02-16 06:22:23.230 UTC [734] LOG:  aborting any active transactions
+2025-02-16 06:22:23.264 UTC [734] LOG:  background worker "logical replication launcher" (PID 765) exited with exit code 1
+2025-02-16 06:22:23.264 UTC [760] LOG:  shutting down
+2025-02-16 06:22:23.289 UTC [734] LOG:  database system is shut down
+2025-02-23 10:47:44.699 UTC [771] LOG:  starting PostgreSQL 13.20 on x86_64-redhat-linux-gnu, compiled by gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-5), 64-bit
+2025-02-23 10:47:44.702 UTC [771] LOG:  listening on IPv4 address "0.0.0.0", port 5432
+2025-02-23 10:47:44.702 UTC [771] LOG:  listening on IPv6 address "::", port 5432
+2025-02-23 10:47:44.705 UTC [771] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+2025-02-23 10:47:44.710 UTC [771] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2025-02-23 10:47:44.730 UTC [819] LOG:  database system was interrupted; last known up at 2025-02-17 08:18:11 UTC
+2025-02-23 10:47:44.909 UTC [819] LOG:  database system was not properly shut down; automatic recovery in progress
+2025-02-23 10:47:44.913 UTC [819] LOG:  redo starts at 0/15F6A48
+2025-02-23 10:47:44.913 UTC [819] LOG:  invalid record length at 0/15F6B30: wanted 24, got 0
+2025-02-23 10:47:44.914 UTC [819] LOG:  redo done at 0/15F6AF8
+2025-02-23 10:47:44.941 UTC [771] LOG:  database system is ready to accept connections
+2025-02-23 14:48:20.403 UTC [771] LOG:  received fast shutdown request
+2025-02-23 14:48:20.406 UTC [771] LOG:  aborting any active transactions
+2025-02-23 14:48:20.461 UTC [771] LOG:  background worker "logical replication launcher" (PID 838) exited with exit code 1
+2025-02-23 14:48:20.485 UTC [833] LOG:  shutting down
+2025-02-23 14:48:20.558 UTC [771] LOG:  database system is shut down
